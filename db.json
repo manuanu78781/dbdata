@@ -1,1 +1,24 @@
-{"id":47874,"external_id":null,"biller_id":13603,"account_number":"5517786916","bill_amount":50.0,"bill_amount_currency":"MXN","fx_rate":1.0,"bill_amount_usd":2.62,"bill_amount_chain_currency":50.0,"payment_transaction_fee":0.0,"payment_total_usd":2.62,"payment_total_chain_currency":50.0,"chain_earned":3.75,"chain_paid":46.25,"starting_balance":3558.29,"ending_balance":3512.04,"hours_to_fulfill":0,"sms_text":null,"created_at":"2019-02-06T17:10:57Z","bill_amount_local_currency":50.0,"local_currency":"MXN","ticket_text":"Pago realizado exitosamente Auth: 1549473057"}
+{
+  "id": 47874,
+  "external_id": null,
+  "biller_id": 13603,
+  "account_number": "5517786916",
+  "bill_amount": 50,
+  "bill_amount_currency": "MXN",
+  "fx_rate": 1,
+  "bill_amount_usd": 2.62,
+  "bill_amount_chain_currency": 50,
+  "payment_transaction_fee": 0,
+  "payment_total_usd": 2.62,
+  "payment_total_chain_currency": 50,
+  "chain_earned": 3.75,
+  "chain_paid": 46.25,
+  "starting_balance": 3558.29,
+  "ending_balance": 3512.04,
+  "hours_to_fulfill": 0,
+  "sms_text": null,
+  "created_at": "2019-02-06T17:10:57Z",
+  "bill_amount_local_currency": 50,
+  "local_currency": "MXN",
+  "ticket_text": "Pago realizado exitosamente Auth: 1549473057"
+}
